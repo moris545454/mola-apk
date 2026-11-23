@@ -1,0 +1,10 @@
+{
+    "versionCode": 490,
+    "versionName": "4.9.0",
+    "packageId": "me.app.fermataX.auto.mola",
+    "sha256": "47c688ede39e3f44367e3b0e66b47d5f3a552ba56c368f99e445426a3fd2de66",
+    "size": 118780165,
+    "minSdkVersion": 28,
+    "apkAsset": "mola-asistan.apk",
+    "distribution": "release"
+}
